@@ -37,7 +37,7 @@ This is a group project completed by [T. Clement](https://github.com/DelicaTessa
 
 ```shell
 $ git clone https://github.com/DelicaTessa/42-minishell
-$ cd minishell
+$ cd 42-minishell
 $ make
 $ ./minishell
 ```
