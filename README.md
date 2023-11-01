@@ -1,5 +1,4 @@
 # minishell
-[![tclement's 42 minishell Score](https://badge42.vercel.app/api/v2/cl59lbrtc003009jqom2qgm4z/project/2129220)](https://github.com/JaeSeoKim/badge42)<br>
 ***This project is to create a simple shell. Concepts about processes and file descriptors are introduced.***
 
 This is a group project completed by [T. Clement](https://github.com/DelicaTessa) & [J.B. Cornelisse](https://github.com/JayBeest)
